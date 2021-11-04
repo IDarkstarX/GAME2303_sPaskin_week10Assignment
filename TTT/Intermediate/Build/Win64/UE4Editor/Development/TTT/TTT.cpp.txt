@@ -1,0 +1,2 @@
+C:\Users\Darkstar\Documents\Scool Files\AI Class\UNREAL STUFF\WEEK 10\GAME2303_sPaskin_week10Assignment\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\Definitions.TTT.h
+C:\Users\Darkstar\Documents\Scool Files\AI Class\UNREAL STUFF\WEEK 10\GAME2303_sPaskin_week10Assignment\TTT\Source\TTT\TTT.h
